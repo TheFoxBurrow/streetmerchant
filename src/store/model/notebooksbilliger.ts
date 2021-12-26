@@ -255,6 +255,24 @@ export const Notebooksbilliger: Store = {
       url: 'https://www.notebooksbilliger.de/zotac+gaming+geforce+rtx+3090+trinity+24gb+gddr6x+grafikkarte+677550',
     },
     {
+      brand: 'nvidia',
+      model: 'founders edition',
+      series: '3070',
+      url: 'https://www.notebooksbilliger.de/nvidia+geforce+rtx+3070+founders+edition+jkl+722492',
+    },
+    {
+      brand: 'nvidia',
+      model: 'founders edition',
+      series: '3080',
+      url: 'https://www.notebooksbilliger.de/nvidia+geforce+rtx+3080+founders+edition+690362',
+    },
+    {
+      brand: 'nvidia',
+      model: 'founders edition',
+      series: '3080ti',
+      url: 'https://www.notebooksbilliger.de/nvidia+geforce+rtx+3080+ti+founders+edition+rst+725372',
+    },
+    {
       brand: 'amd',
       model: '5600x',
       series: 'ryzen5600',
